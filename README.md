@@ -7,9 +7,9 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript (basic), SQL
-- **Libraries/Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, FastAPI, React (learning)
-- **Tools:** Git, Google Colab, VS Code, Jupyter Notebook
+- **Languages:** Python, SQL
+- **Libraries/Frameworks:** NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, FastAPI.
+- **Tools:** Git, Google Colab, Jupyter Notebook, Excel, PowerBI, MySQL workbench.
 
 ---
 
@@ -26,7 +26,7 @@
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💌 Email: your.email@example.com
+- 💌 Email: rushikeshpedgulwar@gmail.com
 
 ---
 
