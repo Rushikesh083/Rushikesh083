@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rishi (Rushikesh Pedgulwar)
 
 🎓 Recent B.Tech graduate in **Artificial Intelligence and Data Science**  
-💡 Data Enthusiast | Python Developer | Dashboard Designer  
+💡 Data Enthusiast | Python Developer | Streamlining decision-making  
 🔍 Passionate about turning raw data into actionable insights
 
 ---
@@ -19,16 +19,17 @@
 
 | 🧠 Project | 🔍 Summary | 🔧 Tools |
 |-----------|------------|----------|
-| [News Article Classification](https://github.com/Rushikesh083) | Machine learning model to classify news articles into categories | Python, NLP, Sklearn |
-| [Electric Vehicle Data Analysis](https://github.com/Rushikesh083) | Cleaned and visualized data for 50+ EV models, identified optimal market segments | Python, Pandas, Seaborn |
-| [Sales Performance Analysis (Walmart)](https://github.com/Rushikesh083) | SQL queries for growth rate, payment trends, and anomaly detection across branches | MySQL |
-| [KPMG Customer Data Dashboard](https://github.com/Rushikesh083) | Customer segmentation and trend analysis using Excel dashboards | Excel, Pivot Tables |
-| [Airbnb Price Prediction](https://github.com/Rushikesh083) | Predictive model estimating property prices based on features | Python, Scikit-learn |
-| [Airline Performance Dashboard](https://github.com/Rushikesh083) | Real-time dashboard analyzing flight status, booking, and cancellation trends | Power BI |
+| News Article Classification | Classifies articles into topics using NLP and machine learning | Python, Sklearn |
+| Vehicle Data Analysis | Analyzes EV specs across brands and models for price-to-range efficiency | Python, Pandas, Seaborn |
+| IMDb Review Sentiment Analysis | Classifies movie reviews as positive or negative using NLP | Python, NLTK, Scikit-learn |
+| Airbnb Price Prediction | Predicts Airbnb listing prices using regression models | Python, Scikit-learn |
+| Walmart Sales Performance Analysis | SQL queries for growth rate, payment trends, and anomaly detection | MySQL |
+| KPMG Data Analysis | Excel dashboards for customer segmentation and transaction trends | Excel, Pivot Tables |
+| Airline Data Analysis using Power BI | Flight, passenger, and booking analysis via interactive dashboards | Power BI, DAX, Power Query |
 
 ---
 
-## 📈 Education
+## 🎓 Education
 
 **Thakur College of Engineering, Mumbai**  
 _B.Tech in Artificial Intelligence and Data Science_  
