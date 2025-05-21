@@ -1,33 +1,46 @@
-### 👋 Hi, I'm [Your Name]!
+# 👋 Hi there, I'm Rishi (Rushikesh Pedgulwar)
 
 🎓 Recent B.Tech graduate in **Artificial Intelligence and Data Science**  
-💻 Aspiring Python Developer | Data Enthusiast  
-🚀 Currently working on: **News Article Classification** project
+💡 Data Enthusiast | Python Developer | Dashboard Designer  
+🔍 Passionate about turning raw data into actionable insights
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, SQL
-- **Libraries/Frameworks:** NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, FastAPI.
-- **Tools:** Git, Google Colab, Jupyter Notebook, Excel, PowerBI, MySQL workbench.
+## 🛠️ Tech Stack
+
+- **Languages**: Python, SQL, JavaScript (basic)
+- **Libraries & Tools**: Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib, Power BI, Excel
+- **Databases**: MySQL
+- **Other Tools**: Git, Jupyter, IBM Cognos, FastAPI (learning), React (learning)
 
 ---
 
-### 📌 Projects
+## 📊 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [News Article Classifier](https://github.com/yourusername/news-classification) | Classifies articles into categories using NLP techniques | Python, Scikit-learn |
-| [To-Do App (FastAPI + React)](https://github.com/yourusername/fastapi-react-todo) | A full-stack app built for learning purposes | FastAPI, React |
-| [Data Visualizer](https://github.com/yourusername/data-visualizer) | Visualizes datasets with clean graphs | Python, Matplotlib |
-
----
-
-### 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💌 Email: rushikeshpedgulwar@gmail.com
+| 🧠 Project | 🔍 Summary | 🔧 Tools |
+|-----------|------------|----------|
+| [News Article Classification](https://github.com/Rushikesh083) | Machine learning model to classify news articles into categories | Python, NLP, Sklearn |
+| [Electric Vehicle Data Analysis](https://github.com/Rushikesh083) | Cleaned and visualized data for 50+ EV models, identified optimal market segments | Python, Pandas, Seaborn |
+| [Sales Performance Analysis (Walmart)](https://github.com/Rushikesh083) | SQL queries for growth rate, payment trends, and anomaly detection across branches | MySQL |
+| [KPMG Customer Data Dashboard](https://github.com/Rushikesh083) | Customer segmentation and trend analysis using Excel dashboards | Excel, Pivot Tables |
+| [Airbnb Price Prediction](https://github.com/Rushikesh083) | Predictive model estimating property prices based on features | Python, Scikit-learn |
+| [Airline Performance Dashboard](https://github.com/Rushikesh083) | Real-time dashboard analyzing flight status, booking, and cancellation trends | Power BI |
 
 ---
 
-*“Learning never exhausts the mind.” – Leonardo da Vinci*
+## 📈 Education
+
+**Thakur College of Engineering, Mumbai**  
+_B.Tech in Artificial Intelligence and Data Science_  
+📆 May 2020 – May 2024 | 🎓 CGPA: 8.67
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-p-23959a215)
+- 📧 Email: rushikeshpedgulwar@gmail.com
+
+---
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci
