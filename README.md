@@ -1,16 +1,33 @@
-## Hi there 👋
+### 👋 Hi, I'm [Your Name]!
 
-<!--
-**Rushikesh083/Rushikesh083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent B.Tech graduate in **Artificial Intelligence and Data Science**  
+💻 Aspiring Python Developer | Data Enthusiast  
+🚀 Currently working on: **News Article Classification** project
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript (basic), SQL
+- **Libraries/Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, FastAPI, React (learning)
+- **Tools:** Git, Google Colab, VS Code, Jupyter Notebook
+
+---
+
+### 📌 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [News Article Classifier](https://github.com/yourusername/news-classification) | Classifies articles into categories using NLP techniques | Python, Scikit-learn |
+| [To-Do App (FastAPI + React)](https://github.com/yourusername/fastapi-react-todo) | A full-stack app built for learning purposes | FastAPI, React |
+| [Data Visualizer](https://github.com/yourusername/data-visualizer) | Visualizes datasets with clean graphs | Python, Matplotlib |
+
+---
+
+### 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💌 Email: your.email@example.com
+
+---
+
+*“Learning never exhausts the mind.” – Leonardo da Vinci*
